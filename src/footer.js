@@ -17,7 +17,7 @@ export function Footer(props){
             </div>
             <div className="row">
                 <div className={`col-md-12 footertext ${textclass}`}>
-                    Built with <a className="footerlink" href="https://reactjs.org/">Reactjs</a>
+                    Built with <a className={`footerlink ${textclass}`} href="https://reactjs.org/">Reactjs</a>
                 </div>
             </div>
             <div className="row">

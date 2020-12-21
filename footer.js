@@ -46,7 +46,7 @@ export function Footer(props) {
                 'Built with ',
                 React.createElement(
                     'a',
-                    { className: 'footerlink', href: 'https://reactjs.org/' },
+                    { className: 'footerlink ' + textclass, href: 'https://reactjs.org/' },
                     'Reactjs'
                 )
             )
