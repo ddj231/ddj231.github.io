@@ -6,7 +6,7 @@ export const descriptions = {
     react_native_highlightr: `React-Native-Highlightr is a code editor component for react native,  
     that wraps the Highlightr Cocoapod. It was created using Swift and the React Native
     Native UI Components API.`,
-    watch_vr: `Watch VR is a demo web application that allows users to watch video
+    watch_vr: `Watch VR is a demo web application that allows users to watch videos
     from their camera roll in a 3D space. This demo targets the Google Cardboard.`,
     mobile_coder_mobile: `Mobile Coder (Mobile) is a iOS mobile application that allows users
     to create workspaces, create files, and edit those files on the go (with syntax highlighting). 
