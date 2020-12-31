@@ -17,7 +17,9 @@ function App(){
 		let textclass = mode == 'dark' ? 'darkmodetext' : 'lightmodetext';
 
 		let projects = [
-			new Project("Moo Chat", descriptions.moo_chat, './moo_chat.png', links.moo_chat, ["p5.js", "socket.io", "node/express"]),
+			new Project("Handel", descriptions.handel, './Handel_Screenshot.png', links.handel,
+			["programming language", "tone.js"]	
+			),
 			new Project("React Native Highlightr", 
 			descriptions.react_native_highlightr, './react_native_highlightr.png', 
 			links.react_native_highlightr,
@@ -37,6 +39,7 @@ function App(){
 			links.mobile_coder_desktop,
 			["nodejs", "firebase/firestore", "firebase/auth"]
 			),
+			new Project("Moo Chat", descriptions.moo_chat, './moo_chat.png', links.moo_chat, ["p5.js", "socket.io", "node/express"]),
 			new Project("Garden Simulator", descriptions.garden_simulator,
 			 './garden_simulator.png', 
 			links.garden_simulator,

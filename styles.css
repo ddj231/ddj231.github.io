@@ -145,7 +145,7 @@ body::-webkit-scrollbar-thumb{
 
 .techbadge {
     display: inline-block;
-    max-width: 150px;
+    max-width: 200px;
     margin-right: 3px;
     margin-bottom: 3px;
     color: blue;

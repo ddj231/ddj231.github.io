@@ -17,7 +17,9 @@ export const descriptions = {
     Mobile Coder Mobile application.`,
     garden_simulator: `Garden Simulator is a demo game, that allows users to plant seeds, water them and watch the
     the seeds grow into flowers. This demo is an experiment with perlin noise for generating natural looking
-    roots.`
+    roots.`,
+    handel: `Handel is a procedural programming language for writting songs in browser. The Handel Interpreter uses
+    Tone.js to run song compositions in browser.`
 }
 export const links = {
     moo_chat: "https://desolate-sands-25998.herokuapp.com/",
@@ -26,4 +28,5 @@ export const links = {
     mobile_coder_desktop: "https://www.npmjs.com/package/@mobile-coder/mobilecoder-desktop",
     mobile_coder_mobile: "https://apps.apple.com/us/app/mobile-coder/id1543586234",
     garden_simulator: "https://i6.cims.nyu.edu/~ddj231/interactive/assignment04/assignment04.html",
+    handel: "https://github.com/ddj231/Handel"
 }
