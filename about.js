@@ -78,7 +78,7 @@ export function AboutSection(props) {
                     ', where I studied Computer Science. You can access my ',
                     React.createElement(
                         'a',
-                        { className: 'prettylink', href: './Daye_Jack_SWE_Resume.pdf' },
+                        { className: 'prettylink', href: './Daye_Jack_ SWE_Resume_2021.pdf' },
                         'resume'
                     ),
                     ' here.'
