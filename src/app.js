@@ -17,7 +17,7 @@ function App(){
 		let textclass = mode == 'dark' ? 'darkmodetext' : 'lightmodetext';
 
 		let projects = [
-			new Project("Handel", descriptions.handel, './Handel-Thumbnail.png', links.handel,
+			new Project("Handel", descriptions.handel, './Handel-Thumbnail-Updated.png', links.handel,
 			["programming language", "tone.js"]	
 			),
 			new Project("React Native Highlightr", 
