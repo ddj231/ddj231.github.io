@@ -14,5 +14,5 @@ export var links = {
     mobile_coder_desktop: "https://www.npmjs.com/package/@mobile-coder/mobilecoder-desktop",
     mobile_coder_mobile: "https://apps.apple.com/us/app/mobile-coder/id1543586234",
     garden_simulator: "https://i6.cims.nyu.edu/~ddj231/interactive/assignment04/assignment04.html",
-    handel: "https://github.com/ddj231/Handel"
+    handel: "https://handel-pl.github.io/"
 };
