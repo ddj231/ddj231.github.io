@@ -35,7 +35,7 @@ export function AboutSection(props){
                 >
                 New York University</a>, 
                 where I studied Computer Science.
-                You can access my <a className="prettylink" href="./Daye_Jack_Resume.pdf">resume</a> here.
+                You can access my <a className="prettylink" href="./Daye_Jack_Resume_2021.pdf">resume</a> here.
             </p>
             <p className="intro">
                 I enjoy developement on all parts of the stack.
