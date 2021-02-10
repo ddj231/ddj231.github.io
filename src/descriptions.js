@@ -24,7 +24,7 @@ export const descriptions = {
 export const links = {
     moo_chat: "https://desolate-sands-25998.herokuapp.com/",
     react_native_highlightr: "https://www.npmjs.com/package/react-native-highlightr",
-    watch_vr: "https://i6.cims.nyu.edu/~ddj231/interactive/final_project/index.html",
+    watch_vr: "https://ddj231.github.io/watch-vr/",
     mobile_coder_desktop: "https://www.npmjs.com/package/@mobile-coder/mobilecoder-desktop",
     mobile_coder_mobile: "https://apps.apple.com/us/app/mobile-coder/id1543586234",
     garden_simulator: "https://i6.cims.nyu.edu/~ddj231/interactive/assignment04/assignment04.html",
