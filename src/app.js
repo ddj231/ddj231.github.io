@@ -40,11 +40,6 @@ function App(){
 			["nodejs", "firebase/firestore", "firebase/auth"]
 			),
 			new Project("Moo Chat", descriptions.moo_chat, './moo_chat.png', links.moo_chat, ["p5.js", "socket.io", "node/express"]),
-			new Project("Garden Simulator", descriptions.garden_simulator,
-			 './garden_simulator.png', 
-			links.garden_simulator,
-			["p5.js", "perlin noise"]
-			),
 		]
 		return(
 			<div className={`fullscreen ${aboutBgColor}`}>
