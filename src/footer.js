@@ -12,15 +12,6 @@ export function Footer(props){
                 </div>
             </div>
             <div className="row">
-                <a className={`col-md-1 footerlink ${textclass}`} href="https://github.com/ddj231">Github</a>
-                <a className={`col-md-1 footerlink ${textclass}`} href="https://www.linkedin.com/in/daye-jack/">LinkedIn</a>
-            </div>
-            <div className="row">
-                <div className={`col-md-12 footertext ${textclass}`}>
-                    Built with <a className={`footerlink ${textclass}`} href="https://reactjs.org/">Reactjs</a>
-                </div>
-            </div>
-            <div className="row">
                 <div className={`col-md-12 footertext ${textclass}`}>
                 Site format inspired by Aditi Mohanty's personal website
                 </div>

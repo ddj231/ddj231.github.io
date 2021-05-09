@@ -27,34 +27,6 @@ export function Footer(props) {
             'div',
             { className: 'row' },
             React.createElement(
-                'a',
-                { className: 'col-md-1 footerlink ' + textclass, href: 'https://github.com/ddj231' },
-                'Github'
-            ),
-            React.createElement(
-                'a',
-                { className: 'col-md-1 footerlink ' + textclass, href: 'https://www.linkedin.com/in/daye-jack/' },
-                'LinkedIn'
-            )
-        ),
-        React.createElement(
-            'div',
-            { className: 'row' },
-            React.createElement(
-                'div',
-                { className: 'col-md-12 footertext ' + textclass },
-                'Built with ',
-                React.createElement(
-                    'a',
-                    { className: 'footerlink ' + textclass, href: 'https://reactjs.org/' },
-                    'Reactjs'
-                )
-            )
-        ),
-        React.createElement(
-            'div',
-            { className: 'row' },
-            React.createElement(
                 'div',
                 { className: 'col-md-12 footertext ' + textclass },
                 'Site format inspired by Aditi Mohanty\'s personal website'

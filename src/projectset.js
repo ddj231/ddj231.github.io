@@ -17,8 +17,7 @@ export function ProjectSet(props){
     })
     return(
         <div className={`container ${bgColor} ${textclass}`}>
-			<h2 style={{color: nametextcolor}} id={`projectsheader ${textclass}`}>Recent Projects</h2>
-            <p className="intro">some of my recent side projects and demos</p>
+			<h2 style={{color: nametextcolor}} id={`projectsheader ${textclass}`}>Most Recent Side Project</h2>
             <div className="row">
                 {cards}
             </div>

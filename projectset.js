@@ -29,12 +29,7 @@ export function ProjectSet(props) {
         React.createElement(
             'h2',
             { style: { color: nametextcolor }, id: 'projectsheader ' + textclass },
-            'Recent Projects'
-        ),
-        React.createElement(
-            'p',
-            { className: 'intro' },
-            'some of my recent side projects and demos'
+            'Most Recent Side Project'
         ),
         React.createElement(
             'div',

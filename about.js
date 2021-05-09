@@ -67,21 +67,7 @@ export function AboutSection(props) {
                 React.createElement(
                     'p',
                     { className: 'intro' },
-                    'I recently graduated from ',
-                    React.createElement(
-                        'a',
-                        { className: 'prettylink',
-                            href: 'https://www.nyu.edu'
-                        },
-                        'New York University'
-                    ),
-                    ', where I studied Computer Science. You can access my ',
-                    React.createElement(
-                        'a',
-                        { className: 'prettylink', href: './Daye_Jack_Resume_2021.pdf' },
-                        'resume'
-                    ),
-                    ' here.'
+                    'I\'m currently working on cool things at Zoom.'
                 ),
                 React.createElement(
                     'p',
